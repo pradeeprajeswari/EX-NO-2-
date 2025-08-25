@@ -1,4 +1,4 @@
-<img width="367" height="201" alt="Screenshot 2025-08-25 134903" src="https://github.com/user-attachments/assets/4d05df67-c32e-431d-b15a-9178ea889710" />## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
+## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
 ### NAME :  PRADEEP 
 ### REG NO: 212223230149
